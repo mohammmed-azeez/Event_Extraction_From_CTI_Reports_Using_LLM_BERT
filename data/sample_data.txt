@@ -1,0 +1,14 @@
+Attackers start wiping data from CouchDB and Hadoop databases.|O
+Researchers are now observing similar destructive attacks on MongoDB databases.|O
+Security researchers Victor Gevers and Niall Merrigan have been tracking attacks on MongoDB installations.|O
+The two have put together spreadsheets on Google Docs to keep track of the attacks.|O
+In the case of Hadoop, a framework used for distributed storage and processing of big data, the attacks are similar.|O
+Hackers gained access to a company's database and stole customer information including names, addresses, and credit card details.|AttackDatabreach
+The phishing campaign targeted employees with emails that appeared to come from the IT department.|AttackPhishing
+The ransomware attack encrypted all files on the company's servers and demanded payment for the decryption key.|AttackRansom
+Security researchers discovered a critical vulnerability in the software that could allow remote code execution.|DiscoverVulnerability
+The vendor released a patch to fix the security vulnerability in their latest software update.|PatchVulnerability
+Multiple attackers exploited the vulnerability to steal data and deploy ransomware on affected systems.|AttackDatabreach, AttackRansom
+Researchers identified the vulnerability and the vendor immediately released a patch to address it.|DiscoverVulnerability, PatchVulnerability
+The phishing attack led to a data breach exposing customer information.|AttackPhishing, AttackDatabreach
+The company patched the vulnerability after researchers discovered it in their software.|PatchVulnerability, DiscoverVulnerability

@@ -1,0 +1,14 @@
+The threat actor group has been active since 2018 and primarily targets financial institutions.|O
+Launched in 2016, the No More Ransom scheme brings together law enforcement and IT security companies to disrupt ransomware operations.|AttackRansom
+The vulnerability allows an attacker to execute arbitrary code with system privileges.|DiscoverVulnerability
+The company issued a security advisory and released patches for all affected products.|PatchVulnerability
+The spear-phishing campaign used social engineering techniques to trick users into clicking malicious links.|AttackPhishing
+The data breach compromised the personal information of millions of customers.|AttackDatabreach
+Researchers discovered the vulnerability and worked with the vendor to develop and release a patch.|DiscoverVulnerability, PatchVulnerability
+The ransomware attack not only encrypted files but also exfiltrated sensitive data before encryption.|AttackRansom, AttackDatabreach
+The phishing attack was the initial vector that led to the subsequent data breach.|AttackPhishing, AttackDatabreach
+The security team identified and patched multiple vulnerabilities during their routine security audit.|DiscoverVulnerability, PatchVulnerability
+The attack campaign combined phishing, ransomware, and data exfiltration techniques.|AttackPhishing, AttackRansom, AttackDatabreach
+The security bulletin details the patches available for recently discovered vulnerabilities.|PatchVulnerability
+The incident response team is investigating the scope of the breach.|O
+The malware uses sophisticated techniques to avoid detection and analysis.|O
